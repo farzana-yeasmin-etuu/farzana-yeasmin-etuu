@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzana-yeasmin-etuu&label=Profile%20views&color=0e75b6&style=flat" alt="farzana-yeasmin-etuu" /> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS ,JavaScript**
+- 🌱 I’m currently learning **JavaScript and Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
